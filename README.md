@@ -31,7 +31,7 @@ print(txt_huruf_kecil)
 # Ganti karakter H dengan karakter J
 txt_ganti_karakter = txt.replace('H', 'J')
 print(txt_ganti_karakter)
-
+```
 ![gambar1](https://user-images.githubusercontent.com/115562487/213173234-c3c26d03-51f4-4463-8b60-6cc5d66712fa.png)
 
 # Latihan 2
@@ -41,6 +41,6 @@ umur = 24
 txt = 'Hello, nama saya john, dan umur saya adalah {} tahun'
 hasil = txt.format(umur)
 print(hasil)
-
+```
 ![gambar2](https://user-images.githubusercontent.com/115562487/213173590-0df516af-39cf-4d52-89e9-32ea784d72f6.png)
 
